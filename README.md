@@ -1,7 +1,8 @@
 # Bootstrap.v4
 <img src="https://blog.templatetoaster.com/wp-content/uploads/2019/09/What-is-Bootstrap-Facebook.png" height="500" width="1000">
+<p>Bootstrap is an HTML, CSS and JS framework for developing responsive, mobile-first projects on the web.</p>
 <p>DOCS: https://getbootstrap.com/docs/4.3/components/alerts/</p>
-<p>There are 2 ways to use Bootsrap:</p>
+<p>There are 2 ways to use Bootstrap:</p>
 <ul>
 <li>Download the files and it to your application</li>
   <ol>
