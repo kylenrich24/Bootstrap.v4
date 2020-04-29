@@ -74,6 +74,7 @@
 <h1 class="display-4">Display Heading 4<</h1>
 ```
 <br>
+<br>
 <p><strong>Blockquotes</strong></p>
 <br>
 <img src="https://i.stack.imgur.com/Lyfta.png" width="350" height="100">
@@ -84,6 +85,7 @@
   <footer class="blockquote-footer">Kyle Edward from<cite title="">Hogwarts</cite> </footer>
 </blockquote>
 ```
+<br>
 <br>
 <p><strong>REM CSS Unit</strong></p>
 <p>REM is a relative unit that takes the font-size of the root-the top level HTML element(eg. 16px) and sets it as the multiplier. So if we set 1rem, the size will be 16px, if we set 2rems, the size will be 32px and so on.</p>
@@ -99,8 +101,16 @@
 ```javascript
 <span class="border"></span>
 <span class="border-top"></span>
+<span class="border border-danger"></span>  // adding colourts
 
 // Subtractive Border
-<span class="border-0"></span>  //removes all borders
+<span class="border-0"></span>  // removes all borders
 <span class="border-top-0"></span>
+
+//Border Radius
+<img src="" class="rounded">   // rounds all corners
+<img src="" class="rounded-circle">  // circle radius
 ```
+<img src="https://i.imgur.com/OXiRE.png" width="400" height="200">
+<br>
+<br>
