@@ -76,7 +76,7 @@
 <br>
 <p>Blockquotes - block quotes</p>
 <br>
-<img src="https://i.stack.imgur.com/Lyfta.png" width="250" height="50">
+<img src="https://i.stack.imgur.com/Lyfta.png" width="300" height="100">
 
 ```html
 <blockquote class="blockquote">
