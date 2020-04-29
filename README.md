@@ -62,8 +62,9 @@
 <br>
 <br>
 
-<h3>Typography</h3>
+<h2>Typography</h2>
 <p>Display - acts like header tag, but are significantly bigger</p>
+<br>
 <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-display-headings.png" width="400px" height="180">
 
 ```html
