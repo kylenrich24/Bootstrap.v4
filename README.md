@@ -111,6 +111,6 @@
 <img src="" class="rounded">   // rounds all corners
 <img src="" class="rounded-circle">  // circle radius
 ```
-<img src="https://i.imgur.com/OXiRE.png" width="400" height="200">
+<img src="https://i.imgur.com/OXiRE.png" width="400" height="160">
 <br>
 <br>
