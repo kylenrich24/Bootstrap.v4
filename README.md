@@ -125,9 +125,9 @@
 <button class="py-5">Button</button>  // sets padding of 5 on top and bottom(y axis)
 ```
 <br>
-<img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-1-Bootstrap-padding.png" width="400" height="160">
+<img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-1-Bootstrap-padding.png" width="400" height="250">
 <br>
 <h3>Margin</h3>
 <p>Same concept as padding</p>
 <br>
-<img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-3-Bootstrap-marging-all.png" width="400" height="160">
+<img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-3-Bootstrap-marging-all.png" width="400" height="250">
