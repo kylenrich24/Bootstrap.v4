@@ -114,3 +114,20 @@
 <img src="https://i.imgur.com/OXiRE.png" width="400" height="160">
 <br>
 <br>
+
+<h3>Padding</h3>
+
+
+```javascript
+<button class="p-0">Button</button>  // sets padding of 0 all around
+<button class="p-3">Button</button>  // sets padding of 3 all around
+<button class="pt-5">Button</button>  // sets padding of 5 on top
+<button class="py-5">Button</button>  // sets padding of 5 on top and bottom(y axis)
+```
+<br>
+<img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-1-Bootstrap-padding.png" width="400" height="160">
+<br>
+<h3>Margin</h3>
+<p>Same concept as padding</p>
+<br>
+<img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-3-Bootstrap-marging-all.png" width="400" height="160">
