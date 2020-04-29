@@ -239,4 +239,5 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 ```
 <br>
 <hr>
+<br>
 <h1>Flexbox in Bootstrap 4</h1>
