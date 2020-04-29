@@ -283,3 +283,23 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 // starting from xs we implement, our main-axis is top to bottom (justify-content-start - goes from top to bottom {align-items is default to stretch})
 // when we reach md, we implement row, our main-axis is left to right (justify-content-between)
 ```
+<br>
+<br>
+<h2>Navbar with Flexbox</h2>
+<br>
+<p>Flexbox is now built-in in Navbars. If we give something the class <em>nav</em> d-flex is also already integrated in.</p>
+
+```html
+<ul class="nav justify-content-around"> // navbar with flexbox
+  <li class="nav-item">
+    <a class="nva-link" href-"#">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nva-link" href-"#">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nva-link" href-"#">Home</a>
+  </li>
+</ul>
+```
+ 
