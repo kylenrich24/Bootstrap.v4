@@ -241,3 +241,33 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 <hr>
 <br>
 <h1>Flexbox in Bootstrap 4</h1>
+<br>
+<p>Flexbox is model of positioning contents inside of a box. Flexbox includes a lot of CSS properties that move things around and position elements inside of a container inside a page. We can implement flexbox without Bootstrap, but Bootstrap comes with convenient utilities that have to do with Flexbox. We're going to use Flexbox through the lens of Bootstrap🚀. </p>
+<br>
+<img src="https://o7planning.org/en/12023/cache/images/i/22789233.png" height=200px width=500px>
+<br>
+<p>There are 2 main things about Flexbox. We have a main-axis that is set to left-to-right(x). So if we say that the start of our Flexbox is in the left side, the end is in the right side. We also have the cross-axis that spans from top-to-bottom by default. Justify-Content takes care of the main-axis and Align-Items takes care of the cross-axis
+
+<br>
+<h3>justify-content for the main-axis</h3>
+<img src="https://pbs.twimg.com/media/EERdQF0U8AAiiWF.jpg" height=200px width=200px>
+
+```html
+<div class="d-flex justify-content-end">  // we have to make our container a flexbox
+  <button class="">Button</button>
+  <button class="">Button</button>
+</div>
+```
+
+<br>
+<h3>align-itemsfor the cross-axis</h3>
+<img src="https://miro.medium.com/max/467/0*zjr2zfjBxg_kRNFi" height=3500px width=200px>
+<br>
+
+```html
+<div class="d-flex align-items-end">  // we have to make our container a flexbox
+  <button class="">Button</button>
+  <button class="">Button</button>
+</div>
+```
+
