@@ -261,7 +261,7 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 
 <br>
 <h3>align-itemsfor the cross-axis</h3>
-<img src="https://miro.medium.com/max/467/0*zjr2zfjBxg_kRNFi" height=350px width=200px>
+<img src="https://miro.medium.com/max/467/0*zjr2zfjBxg_kRNFi" height=350px width=250px>
 <br>
 
 ```html
