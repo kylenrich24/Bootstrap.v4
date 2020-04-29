@@ -63,7 +63,7 @@
 <br>
 
 <h2>Typography</h2>
-<p><strong>Display</strong> - acts like header tag, but are significantly bigger</p>
+<h3>Display</h3> - acts like header tag, but are significantly bigger
 <br>
 <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-display-headings.png" width="400px" height="180">
 
@@ -75,7 +75,7 @@
 ```
 <br>
 <br>
-<p><strong>Blockquotes</strong></p>
+<h3>Blockquotes</h3>
 <br>
 <img src="https://i.stack.imgur.com/Lyfta.png" width="350" height="100">
 
@@ -87,7 +87,7 @@
 ```
 <br>
 <br>
-<p><strong>REM CSS Unit</strong></p>
+<h3>REM CSS Unit</h3>
 <p>REM is a relative unit that takes the font-size of the root-the top level HTML element(eg. 16px) and sets it as the multiplier. So if we set 1rem, the size will be 16px, if we set 2rems, the size will be 32px and so on.</p>
 <p>It is important to keep in mind that if this root font-size changes all of our sizing will shift as well.</p>
 
