@@ -250,7 +250,7 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 
 <br>
 <h3>justify-content for the main-axis</h3>
-<img src="https://pbs.twimg.com/media/EERdQF0U8AAiiWF.jpg" height=200px width=200px>
+<img src="https://pbs.twimg.com/media/EERdQF0U8AAiiWF.jpg" height=300px width=300px>
 
 ```html
 <div class="d-flex justify-content-end">  // we have to make our container a flexbox
@@ -261,7 +261,7 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 
 <br>
 <h3>align-itemsfor the cross-axis</h3>
-<img src="https://miro.medium.com/max/467/0*zjr2zfjBxg_kRNFi" height=3500px width=200px>
+<img src="https://miro.medium.com/max/467/0*zjr2zfjBxg_kRNFi" height=350px width=200px>
 <br>
 
 ```html
