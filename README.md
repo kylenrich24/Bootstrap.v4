@@ -149,3 +149,76 @@
 ```
 
 <p>**Same concept with margin</p>  
+
+<br>
+<br>
+<h3>Navbar</h3>
+
+```html
+ <nav class="navbar navbar-expand-lg navbar-light bg-light"> // makes our navbar, navbar items stack except lg
+  <div class="container">  // makes sure all our items are in a center margin
+    <a class="navbar-brand" href="#">Navbar</a>  // our main item
+      <div class="navbar-collapse">  // everything in here will be our items
+        <div class="navbar-nav">  // layouts our item properly
+          <a class="nav-item nav-link" href="#">Home</a>  //item
+          <a class="nav-item nav-link" href="#">About</a> //item
+        </div>
+      </div>
+      <div class="navbar-nav">  //layouts our item properly; not inside navbar-collapse; it will stick to the left side
+        <a class="nav-item nav-link" href="#">Sign In</a> //item
+        <a class="nav-item nav-link" href="#">Sign Out</a>  //item
+      </div>
+  </div>
+ </nav>
+```
+
+<br>
+<br>
+
+<img src="https://www.script-tutorials.com/wp-content/uploads/2015/01/navbar3-700x357.jpg" height=200px width=500px>
+
+<br>
+
+To implement actions/features include jquery cdn first and then the bootstrap javascript cdn because it relies on jquery. (This already done in <em>There are 2 ways to use Bootstrap</em>
+
+```html
+// including a hamburger
+// hiding our items to a hamburger in mobile version
+
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: red;"> //NAVBAR; stacks except in lg; white text(navbar-dark)
+  <div class="container"> // putting all our items in a container; has auto margin to center
+    <a class="navbar-brand" href="#">Navbar</a> // MAIN ITEM
+    // HAMBURGER ICON THAT TARGETS OUR ITEM TO COLLAPSE
+    <button
+      class="navbar-toggler"
+      type="button
+      data-toggle="collapse"
+      data-target="#navbarSupportedContent"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent"> // pur items; items collapsible to hamburger
+      <ul class="navbar-nav mr-auto"> //layouts our items properly to stack to the left; our first set of items
+        <li>
+          <a class="nav-link" href="#">Home</a>  //ITEM
+        </li>
+        <li>
+          <a class="nav-link" href="#">Link</a> //ITEM
+        </li>
+      </ul>
+      <ul class="navbar-nav navbar-right"> //layouts our items to the right; our second set of items
+        <li>
+          <a class="nav-link" href="#">Sign In</a>  //ITEM
+        </li>
+        <li>
+          <a class="nav-link" href="#">Sign Out</a> //ITEM
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+```
+
+<br>
+<br>
