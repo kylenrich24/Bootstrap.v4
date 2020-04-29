@@ -84,3 +84,23 @@
   <footer class="blockquote-footer">Kyle Edward from<cite title="">Hogwarts</cite> </footer>
 </blockquote>
 ```
+<br>
+<p><strong>REM CSS Unit</strong></p>
+<p>REM is a relative unit that takes the font-size of the root-the top level HTML element(eg. 16px) and sets it as the multiplier. So if we set 1rem, the size will be 16px, if we set 2rems, the size will be 32px and so on.</p>
+<p>It is important to keep in mind that if this root font-size changes all of our sizing will shift as well.</p>
+
+<br>
+<br>
+<h2>New Spacing Utilities</h2>
+<h3>Borders</h3>
+<br>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-14-15-e1547624651876.png" width="400" height="200">
+
+```javascript
+<span class="border"></span>
+<span class="border-top"></span>
+
+// Subtractive Border
+<span class="border-0"></span>  //removes all borders
+<span class="border-top-0"></span>
+```
