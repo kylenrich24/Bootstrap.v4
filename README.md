@@ -51,8 +51,10 @@
 <br>
 <h2>Colors and Backgrounds</h2>
 <p>Bootstrap takes advantage of Contextual Colours</p>
+<p>Bootstrap Colour List</p>
 <img src="https://bootstrap.themes.guide/assets/howto/colors.png" width="500px" height="180">
 <br>
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/20190426125745/colors_list.png" width="250px" height="180">
+<p>Text Colours</p>
 <img src="https://www.jquery-az.com/wp-content/uploads/2018/01/15-3-Bootstrap-link-colors.png" width="200px" height="180">
+<p>Background Colours</p>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190426131212/background_color_list.png" width="400px" height="180">
