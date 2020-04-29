@@ -73,3 +73,14 @@
 <h1 class="display-3">Display Heading 3<</h1>
 <h1 class="display-4">Display Heading 4<</h1>
 ```
+<br>
+<p>Blockquotes - block quotes</p>
+<br>
+<img src="https://codepen.io/jstneg/pen/JGeKzg/image/large.png" width="400px" height="180">
+
+```html
+<blockquote class="blockquote">
+  <p>Lorem Ipsum</p>
+  <footer class="blockquote-footer">Kyle Edward from<cite title="">Hogwarts</cite> </footer>
+</blockquote>
+```
