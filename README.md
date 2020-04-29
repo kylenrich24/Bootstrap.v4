@@ -131,3 +131,21 @@
 <p>Same concept as padding</p>
 <br>
 <img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-3-Bootstrap-marging-all.png" width="400" height="250">
+<br>
+<br>
+<h2>Responsive Breakpoints</h2>
+<ul>
+  <li>Extra Small - no 'xs' since this is the default</li>
+  <li>Small - sm</li>
+  <li>Medium - md</li>
+  <li>Large - lg</li>
+  <li>Extra Large - xl</li>
+</ul>
+<p>We can selectively add margin and padding depending on the screen-size (i.e maybe you want your components to be more spaced out in a large screen and no space in small screen, etc.)</p>
+
+```html
+<button class="p-sm-5 p-md-0">Button</button>  // from sm breakpoint we have p-5, from md breakpoint we have p-0
+<button class="p-0 p-sm-2">Button</button>  // default is xs; we have p-0 at xs, we have p-2 at sm
+```
+
+<p>**Same concept with margin</p>  
