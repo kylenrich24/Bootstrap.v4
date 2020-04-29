@@ -133,6 +133,7 @@
 <img src="https://www.jquery-az.com/wp-content/uploads/2018/02/27-3-Bootstrap-marging-all.png" width="400" height="250">
 <br>
 <br>
+
 <h2>Responsive Breakpoints</h2>
 <ul>
   <li>Extra Small - no 'xs' since this is the default</li>
@@ -152,7 +153,7 @@
 
 <br>
 <br>
-<h3>Navbar</h3>
+<h2>Navbar</h2>
 
 ```html
  <nav class="navbar navbar-expand-lg navbar-light bg-light"> // makes our navbar, navbar items stack except lg
