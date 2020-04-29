@@ -337,7 +337,7 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 <p>We can combine the allocation of area of Grid and the ability of Flexbox to move things around</p>
 
 ```html
-<div classs="container> // // container implements a flexbox 
+<div classs="container> // container implements a flexbox 
   <div class="row justify-content-end"> // row implements Grid; we flex everything to the end of out Grid    
     <div class="col-sm-6"></idv>  // we have a div that spans 50%
   </div>       
