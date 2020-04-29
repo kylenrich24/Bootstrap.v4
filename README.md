@@ -76,7 +76,7 @@
 <br>
 <p>Blockquotes - block quotes</p>
 <br>
-<img src="https://codepen.io/jstneg/pen/JGeKzg/image/large.png" width="400px" height="180">
+<img src="https://i.stack.imgur.com/Lyfta.png" width="400px" height="180">
 
 ```html
 <blockquote class="blockquote">
