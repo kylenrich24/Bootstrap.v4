@@ -228,3 +228,12 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 
 <br>
 <br>
+<h2>⚡️New Display Utility</h2>
+<br>
+<p>Toggles the display value of components</p>
+
+```html
+<h1 class="d-inline">Hello</h1> // makes an h1 element inline as opposed to its original default display state - block
+<hi class="d-xl-none">Hello</h1> // h1 disappears when we hit the xl breakpoint
+<hi class="d-none d-lg-block">Hello</h1>  // display none always starting from default-xs, toggles to block on lg and xl
+```
