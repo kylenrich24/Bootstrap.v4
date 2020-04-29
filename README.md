@@ -63,7 +63,7 @@
 <br>
 
 <h2>Typography</h2>
-<p>Display - acts like header tag, but are significantly bigger</p>
+<p><strong>Display</strong> - acts like header tag, but are significantly bigger</p>
 <br>
 <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-display-headings.png" width="400px" height="180">
 
@@ -74,7 +74,7 @@
 <h1 class="display-4">Display Heading 4<</h1>
 ```
 <br>
-<p>Blockquotes - block quotes</p>
+<p><strong>Blockquotes</strong></p>
 <br>
 <img src="https://i.stack.imgur.com/Lyfta.png" width="300" height="100">
 
