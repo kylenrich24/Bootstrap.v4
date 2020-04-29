@@ -28,3 +28,21 @@
    </code></pre>
 <br><br<
 <p><strong>We can now start using Bootstrap components by adding classes to our elements</strong><p>
+<hr>
+
+<br>
+<br>
+
+<h2>Differences from v3</h2>
+<ul>
+<li>Syntax has been majorly changed. Refer to DOCS.</li>
+<li>Flexbox is enabled by default</li>
+<li>Switched from px to rem as our primary CSS unit. It is a relative unit that allows you to scale to size things in our web app based on the <strong>Global font-size</strong> which is 16px</li>
+<li>There is now a fifth tier in the Grid System. We have xs, sm, md, lg, xl </li>
+  <li>Added dozens of new utility classes for common CSS propery-value pairs and margin/padding spacing shortcuts</li>
+  <li>Upgraded class names in Grid System</li>
+  <li>New Cards component</li>
+  <li>No more Glypichons. Use Font Awesome</li>
+  <li>Renamed btn-default to btn-primary</li>
+  <li>No more .btn-xs</li>
+</ul>
