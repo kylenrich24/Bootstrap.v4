@@ -306,4 +306,14 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 <hr>
 <br>
 <h1>🚀Grid in Bootstrap 4🚀</h1>
- 
+ <br>
+<p>xs is added to the sizes</p>
+
+```html
+<div class="container"> // must implement container to use grid
+  <div class="row">
+    <h3 class="col-sm-6">THING 1</h3> // in default (xs), this takes up 12 units (also default because h is a block)
+    <h3 class="col-sm-6">THING 1</h3> // in sm onwards, this takes up 6 units/half
+  </div>
+</div>
+```
