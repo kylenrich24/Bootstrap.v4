@@ -46,3 +46,9 @@
   <li>Renamed btn-default to btn-primary</li>
   <li>No more .btn-xs</li>
 </ul>
+
+<br>
+<br>
+<h2>Colors and Backgrounds</h2>
+<p>Bootstrap takes advantage of Contextual Colours</p>
+<img src="https://bootstrap.themes.guide/assets/howto/colors.png" width="500px" height="300">
