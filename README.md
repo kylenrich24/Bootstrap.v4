@@ -54,8 +54,7 @@
 <br>
 <h3>Bootstrap Colour List</h3>
 <img src="https://bootstrap.themes.guide/assets/howto/colors.png" width="500px" height="180">
-<br>
-<h3>>Text Colours</h3>
-<img src="https://www.jquery-az.com/wp-content/uploads/2018/01/15-3-Bootstrap-link-colors.png" width="200px" height="180">
 
+<h3>Text Colours</h3>
+<img src="https://www.jquery-az.com/wp-content/uploads/2018/01/15-3-Bootstrap-link-colors.png" width="200px" height="180">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190426131212/background_color_list.png" width="400px" height="180">
