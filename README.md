@@ -96,7 +96,7 @@
 <h2>New Spacing Utilities</h2>
 <h3>Borders</h3>
 <br>
-<img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-14-15-e1547624651876.png" width="400" height="200">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-14-15-e1547624651876.png" width="400" height="160">
 
 ```javascript
 <span class="border"></span>
