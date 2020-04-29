@@ -237,3 +237,6 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 <hi class="d-xl-none">Hello</h1> // h1 disappears when we hit the xl breakpoint
 <hi class="d-none d-lg-block">Hello</h1>  // display none always starting from default-xs, toggles to block on lg and xl
 ```
+<br>
+<hr>
+<h1>Flexbox in Bootstrap 4</h1>
