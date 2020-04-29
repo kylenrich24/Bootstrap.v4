@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<h2>Differences from v3</h2>{: .blue}
+<h2>Differences from v3</h2>
 <ul>
 <li>Syntax has been majorly changed. Refer to DOCS.</li>
 <li>Flexbox is enabled by default</li>
