@@ -55,4 +55,4 @@
 <br>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190426125745/colors_list.png" width="250px" height="180">
 <img src="https://www.jquery-az.com/wp-content/uploads/2018/01/15-3-Bootstrap-link-colors.png" width="200px" height="180">
-<img src="https://www.divscode.com/wp-content/uploads/2019/07/bg-color.png" width="500x" height="250">
+<img src="https://www.divscode.com/wp-content/uploads/2019/07/bg-color.png" width="500x" height="350">
