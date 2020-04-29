@@ -271,13 +271,15 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 </div>
 ```
 <br>
-⚡️flex-row-reverse - reverses the direction of the main-axis
-⚡️flex-column - makes top-to-bottom our main-axis and left-ro-right for our cross-axis (align-items and justify-content changes direction too)
-⚡️flex-column-reverse - makes bottom-to-top our main-axis and left-ro-right for our cross-axis (align-items and justify-content changes direction too)
+⚡️flex-row-reverse - reverses the direction of the main-axis<br>
+⚡️flex-column - makes top-to-bottom our main-axis and left-ro-right for our cross-axis (align-items and justify-content changes direction too)<br>
+⚡️flex-column-reverse - makes bottom-to-top our main-axis and left-ro-right for our cross-axis (align-items and justify-content changes direction too)<br>
 <br>
 <br>
 <h3>We can also implement responsiveness</h3>
 
 ```html
-<div class="d-flex flex-column flex-md-row justify-content-between"><div>
+<div class="d-flex flex-column flex-md-row justify-content-between"><div> 
+// starting from xs we implement, our main-axis is top to bottom (justify-content-start - goes from top to bottom {align-items is default to stretch})
+// when we reach md, we implement row, our main-axis is left to right (justify-content-between)
 ```
