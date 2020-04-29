@@ -240,7 +240,7 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 <br>
 <hr>
 <br>
-<h1>Flexbox in Bootstrap 4</h1>
+<h1>🚀Flexbox in Bootstrap 4🚀</h1>
 <br>
 <p>Flexbox is model of positioning contents inside of a box. Flexbox includes a lot of CSS properties that move things around and position elements inside of a container inside a page. We can implement flexbox without Bootstrap, but Bootstrap comes with convenient utilities that have to do with Flexbox. We're going to use Flexbox through the lens of Bootstrap🚀. </p>
 <br>
@@ -254,8 +254,8 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 
 ```html
 <div class="d-flex justify-content-end">  // we have to make our container a flexbox
-  <button class="">Button</button>
-  <button class="">Button</button>
+  <button>Button</button>
+  <button>Button</button>
 </div>
 ```
 
@@ -266,8 +266,8 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 
 ```html
 <div class="d-flex align-items-end">  // we have to make our container a flexbox
-  <button class="">Button</button>
-  <button class="">Button</button>
+  <button>Button</button>
+  <button>Button</button>
 </div>
 ```
 
