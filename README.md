@@ -348,10 +348,11 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 <br>
 
 ```html
-<div class="row align-items-end">  // we align everything on the bottom
-  <div class="col-2 align-self-start"></div>  // aligns self to top 
-  <div class="col-2"></div>  
-  <div class="col-2"></div>  
-  
+<div class="container">
+  <div class="row align-items-end">  // we align everything on the bottom
+    <div class="col-2 align-self-start"></div>  // aligns self to top 
+    <div class="col-2"></div>  
+    <div class="col-2"></div>  
+  </div>
 </div>
 ```
