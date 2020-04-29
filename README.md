@@ -58,3 +58,17 @@
 <h3>Text Colours</h3>
 <img src="https://www.jquery-az.com/wp-content/uploads/2018/01/15-3-Bootstrap-link-colors.png" width="200px" height="180">
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20190426131212/background_color_list.png" width="400px" height="180">
+
+<br>
+<br>
+
+<h3>Typography</h3>
+<p>Display - acts like header tag, but are significantly bigger</p>
+<img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-display-headings.png" width="400px" height="180">
+
+```html
+<h1 class="display-1">Display Heading 1</h1>
+<h1 class="display-2">Display Heading 2<</h1>
+<h1 class="display-3">Display Heading 3<</h1>
+<h1 class="display-4">Display Heading 4<</h1>
+```
