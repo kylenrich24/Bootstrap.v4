@@ -33,7 +33,7 @@
 <br>
 <br>
 
-<h2>Differences from v3</h2>
+<h2>⚡️Differences from v3</h2>
 <ul>
 <li>Syntax has been majorly changed. Refer to DOCS.</li>
 <li>Flexbox is enabled by default</li>
@@ -49,7 +49,7 @@
 
 <br>
 <br>
-<h2>Colors and Backgrounds</h2>
+<h2>⚡️Colors and Backgrounds</h2>
 <br>
 <p>Bootstrap takes advantage of Contextual Colours</p>
 <br>
@@ -63,7 +63,7 @@
 <br>
 <br>
 
-<h2>Typography</h2>
+<h2>⚡️Typography</h2>
 <br>
 <h3>Display</h3> - acts like header tag, but are significantly bigger
 <br>
@@ -95,7 +95,7 @@
 
 <br>
 <br>
-<h2>New Spacing Utilities</h2>
+<h2>⚡️New Spacing Utilities</h2>
 <br>
 <h3>Borders</h3>
 <br>
@@ -137,7 +137,7 @@
 <br>
 <br>
 
-<h2>Responsive Breakpoints</h2>
+<h2>⚡️Responsive Breakpoints</h2>
 <br>
 <ul>
   <li>Extra Small - no 'xs' since this is the default</li>
@@ -157,7 +157,7 @@
 
 <br>
 <br>
-<h2>Navbar</h2>
+<h2>⚡️Navbar</h2>
 <br>
 
 ```html
