@@ -313,7 +313,20 @@ To implement actions/features include jquery cdn first and then the bootstrap ja
 <div class="container"> // must implement container to use grid
   <div class="row">
     <h3 class="col-sm-6">THING 1</h3> // in default (xs), this takes up 12 units (also default because h is a block)
-    <h3 class="col-sm-6">THING 1</h3> // in sm onwards, this takes up 6 units/half
+    <h3 class="col-sm-6">THING 2</h3> // in sm onwards, this takes up 6 units/half
   </div>
 </div>
 ```
+<br>
+<p>We can also omit numbers</p>
+
+```html
+<div class="container"> // must implement container to use grid
+  <div class="row">
+    <h3 class="col">THING 1</h3> // automatically allocates 4 units each because we have 3 cols
+    <h3 class="col">THING 2</h3> 
+    <h3 class="col">THING 3</h3>
+  </div>
+</div>
+```
+
