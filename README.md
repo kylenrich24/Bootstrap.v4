@@ -51,4 +51,4 @@
 <br>
 <h2>Colors and Backgrounds</h2>
 <p>Bootstrap takes advantage of Contextual Colours</p>
-<img src="https://bootstrap.themes.guide/assets/howto/colors.png" width="500px" height="300">
+<img src="https://bootstrap.themes.guide/assets/howto/colors.png" width="500px" height="250">
