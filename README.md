@@ -50,6 +50,7 @@
 <br>
 <br>
 <h2>Colors and Backgrounds</h2>
+<br>
 <p>Bootstrap takes advantage of Contextual Colours</p>
 <br>
 <h3>Bootstrap Colour List</h3>
@@ -63,6 +64,7 @@
 <br>
 
 <h2>Typography</h2>
+<br>
 <h3>Display</h3> - acts like header tag, but are significantly bigger
 <br>
 <img src="https://www.tutorialrepublic.com/lib/images/bootstrap-4/bootstrap-display-headings.png" width="400px" height="180">
@@ -94,6 +96,7 @@
 <br>
 <br>
 <h2>New Spacing Utilities</h2>
+<br>
 <h3>Borders</h3>
 <br>
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-14-15-e1547624651876.png" width="400" height="160">
@@ -135,6 +138,7 @@
 <br>
 
 <h2>Responsive Breakpoints</h2>
+<br>
 <ul>
   <li>Extra Small - no 'xs' since this is the default</li>
   <li>Small - sm</li>
@@ -154,6 +158,7 @@
 <br>
 <br>
 <h2>Navbar</h2>
+<br>
 
 ```html
  <nav class="navbar navbar-expand-lg navbar-light bg-light"> // makes our navbar, navbar items stack except lg
